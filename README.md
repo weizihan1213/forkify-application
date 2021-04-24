@@ -4,7 +4,7 @@ This project is a recipe query application implemented by JavaScript, DOM, and A
 
 The project has already been deployed on Netlify([https://forkify-zihan.netlify.app/](https://forkify-zihan.netlify.app/)).
 
-Click [here](https://forkify-api.herokuapp.com/v2) to check out the erelevant API information.
+Click [here](https://forkify-api.herokuapp.com/v2) to check out the relevant API information.
 
 
 ### Flowchart
